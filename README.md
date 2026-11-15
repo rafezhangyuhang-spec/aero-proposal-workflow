@@ -4,6 +4,8 @@
 
 **由 AERO Creative / 艾瑞创意整理。** 面向品牌、广告、整合营销和内容项目，把客户任务、研究证据、洞察与机会、传播策略、核心创意、执行和提案连接起来。
 
+[官网项目介绍](https://www.aerocreative.com.cn/dynamic/aero-proposal-workflow/?utm_source=github&utm_medium=readme&utm_campaign=proposal_workflow) · [AERO 官网](https://www.aerocreative.com.cn/)
+
 这是可以直接阅读、复制模板、交给 AI 辅助使用的方法库。无需 API Key、安装依赖或注册服务；它不会自动生成经过客户批准的完整方案。
 
 [完整工作流](WORKFLOW.md) · [快速使用](USAGE.md) · [空白模板](TEMPLATES.md) · [虚构示例](EXAMPLE.md) · [English](README.en.md)
