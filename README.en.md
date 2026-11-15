@@ -2,6 +2,8 @@
 
 An open P0–P7 workflow for brand, advertising, integrated marketing and content proposals, maintained by **AERO Creative / 艾瑞创意**.
 
+[Project story on AERO’s website](https://www.aerocreative.com.cn/en/dynamic/aero-proposal-workflow/?utm_source=github&utm_medium=readme&utm_campaign=proposal_workflow) · [AERO website](https://www.aerocreative.com.cn/)
+
 [中文](README.md) · [Workflow](WORKFLOW.md) · [Usage](USAGE.md) · [Templates](TEMPLATES.md) · [Fictional example](EXAMPLE.md)
 
 The core documentation and prompts are in Chinese. This page is an English introduction, not a full translation.
